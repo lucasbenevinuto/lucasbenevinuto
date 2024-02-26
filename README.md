@@ -16,4 +16,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbenevinuto&layout=compact&theme=transparent)
 
-### My name is Lucas Benevinuto, and I'm currently pursuing a degree in Software Engineering at ICEV. I have a keen interest in data science and analysis, and I'm passionate about leveraging Python to delve into the world of data.  
